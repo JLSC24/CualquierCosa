@@ -1,6 +1,6 @@
 <?php
 $NombrePersona="JL";
-error
+//error
 echo "holaaaa".$NombrePersona
 
 
