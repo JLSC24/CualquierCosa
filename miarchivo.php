@@ -3,7 +3,7 @@ $NombrePersona="JL";
 //error
 echo "holaaaa".$NombrePersona
 
-
+/*
   function ProbarBD()
 {
 if ($OK)
@@ -16,4 +16,5 @@ if(!$OK)
   ProbarBD();
   
 return 1;
+  /*
 ?>
