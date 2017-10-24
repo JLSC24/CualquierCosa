@@ -1,6 +1,5 @@
 language: php
 php:
 -"7.0"
-language:c
-c:
--"3.13.3"
+
+
