@@ -1,6 +1,6 @@
 <?php
 $NombrePersona="JL";
-echo "holaaaa".$NombrePersona;
+echo "holaaaa".$NombrePersona
 
 
 ?>
