@@ -1,8 +1,7 @@
 <?php
 $NombrePersona="JL";
 //error
-echo "holaaaa".$NombrePersona
-
+echo "Hola ".$NombePersona
 /*
   function ProbarBD()
 {
@@ -16,5 +15,6 @@ if(!$OK)
   ProbarBD();
   
 return 1;
-  /*
+  */
+  
 ?>
